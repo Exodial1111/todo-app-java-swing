@@ -79,6 +79,7 @@ Se implementó un mecanismo que permite seleccionar un nuevo estado para la tare
 
 # Tecnologías utilizadas
 
+* Java JDK 8 (1.8)
 * Java
 * Java Swing
 * NetBeans 13
